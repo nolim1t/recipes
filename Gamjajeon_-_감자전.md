@@ -1,4 +1,7 @@
 # 감자전 (Gamjajeon) aka Korean Pancake #
+## Difficulty ##
+Moderate
+
 ## Ingredients ##
 * Egg
 * Potato
